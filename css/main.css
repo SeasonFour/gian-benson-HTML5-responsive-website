@@ -1,0 +1,21 @@
+.header-strip{
+background: black;
+width: 100%;
+height:40px;
+
+}
+.header-info{
+	height: 40px;
+}
+.text-top{
+	padding-top: 10px;
+	font-size: 10px;
+	color: #CCCCCC;
+}
+.text-top-left{
+	color: #CCCCCC;
+	float: right;
+	font-size: 10px;
+	padding-top: 10px;
+	cursor: pointer;
+}
