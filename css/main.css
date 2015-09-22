@@ -239,6 +239,9 @@ label {
 @keyframes pulso {
   50% {opacity: .7;}
 }
+.products{
+  margin-top: 40px;
+}
 .ads-two-a{
 	
 	height: 220px;
@@ -267,11 +270,11 @@ label {
 }
 
 #outer-box #inner-box {
-  background: #FD8698;
-  height: 20%;
-  width: 110%;
+  background: #C5BCB9;
+  height: 60%;
+  width: 100%;
   opacity: 0;
-  top: 30%;
+  top: 5%;
   left: 0;
   position: absolute;
   padding: 0;
