@@ -255,14 +255,14 @@ label {
 
 
 #outer-box {
-  width: 300px;
+  
   height: 194px;
   display: block;
   position: relative;
 }
 
 #outer-box img {
-  width: 300px;
+  
   height: auto;
 }
 
