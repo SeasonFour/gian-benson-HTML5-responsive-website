@@ -310,3 +310,20 @@ margin-top: 170px;
 .blog-item-row:hover{
   border:2px solid #D2B4B4;
 }
+.footer-big{
+  height: 250px;
+  background: #DDDDDD;
+}
+.footer-store{
+
+  height: 250px;
+}
+.footer-left{
+  
+  height: 250px;
+  margin-top: 20px;
+  color: #777777;
+  font-size: xx-small;
+  text-align: center;
+
+}
