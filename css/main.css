@@ -252,3 +252,26 @@ label {
     max-width:100%;
     margin:auto
 }
+
+#box    {  
+           height:300px;
+           box-shadow:inset 1px 1px 40px 0 rgba(0,0,0,.45);
+          border-bottom:2px solid #fff;
+          border-right:2px solid #fff;
+          margin:5% auto 0 auto; 
+        }
+
+#overlay    {  background:rgba(0,0,0,.75);
+               text-align:center;
+               padding:45px 0 66px 0;
+               opacity:0;
+               -webkit-transition: opacity .25s ease;
+-moz-transition: opacity .25s ease;}
+
+#box:hover #overlay {
+               opacity:1;}
+
+#plus       {  font-family:Helvetica;
+               font-weight:900;
+               color:rgba(255,255,255,.85);
+               font-size:96px;}
