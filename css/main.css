@@ -292,3 +292,7 @@ label {
   opacity: .9;
   transition: opacity .5s;
 }
+.with-timer{
+top: 120px;
+
+}
