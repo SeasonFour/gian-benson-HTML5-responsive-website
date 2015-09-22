@@ -86,13 +86,13 @@ height:40px;
   font-family: 'Great Vibes';
 }
 .una {
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAAEFsT2yAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFElEQVR4nGNhYGBwYIET////ZwAAETIDym2lzEcAAAAASUVORK5CYII=), url(http://2.bp.blogspot.com/-Kd55Z83gyvM/UpD8A6qj6CI/AAAAAAAAH20/eV8YvYCDAvE/s1600/mult-lab1.jpg);
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAAEFsT2yAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFElEQVR4nGNhYGBwYIET////ZwAAETIDym2lzEcAAAAASUVORK5CYII=), url(http://mosaicthemes.net/rc/img/slider/slide33.jpg);
 }
 .dos {
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAAEFsT2yAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFElEQVR4nGNhYGBwYIET////ZwAAETIDym2lzEcAAAAASUVORK5CYII=), url(http://2.bp.blogspot.com/-ggbrdAifJsg/UpD8BKbE3qI/AAAAAAAAH24/qJ4tw_dWvZw/s1600/mult-lab2.jpg);
+  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAAEFsT2yAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFElEQVR4nGNhYGBwYIET////ZwAAETIDym2lzEcAAAAASUVORK5CYII=), url(http://mosaicthemes.net/rc/img/slider/slide44.jpg);
 }
 .tres {
-  background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAAEFsT2yAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFElEQVR4nGNhYGBwYIET////ZwAAETIDym2lzEcAAAAASUVORK5CYII=), url(http://4.bp.blogspot.com/-OGSy0-ttar0/UpD8CJxQtjI/AAAAAAAAH3E/b2k5041nSAE/s1600/mult-lab3.jpg);
+  background-image: url(data:image/jpg;base64,iVBORw0KGgoAAAANSUhEUgAAAAIAAAACCAYAAAEFsT2yAAAACXBIWXMAAAsSAAALEgHS3X78AAAAFElEQVR4nGNhYGBwYIET////ZwAAETIDym2lzEcAAAAASUVORK5CYII=), url(http://mosaicthemes.net/rc/img/slider/slide11.jpg);
 }
 h2 {
   color: #fff;
@@ -238,4 +238,9 @@ label {
 }
 @keyframes pulso {
   50% {opacity: .7;}
+}
+.ads-two-a{
+	
+	height: 200px;
+	border: 0.5px solid #D2B4B4;
 }
