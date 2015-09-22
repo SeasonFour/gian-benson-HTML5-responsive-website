@@ -19,3 +19,34 @@ height:40px;
 	padding-top: 10px;
 	cursor: pointer;
 }
+.header-logo-content{
+	height: 110px;
+	background: #DADADA;
+	top: 0px;
+}
+.header-logo-area{
+	top:0px;
+	margin-top: 0px;
+}
+.set-image{
+ max-height:100%;
+    height:auto;
+    width:100%;
+    max-width:100%;
+    margin:auto
+}
+.header-logo-content-right{
+	float: right;
+}
+.set-cart{
+	position: relative;
+	top: -80px;
+
+	cursor: pointer;
+	
+}
+.search{
+	position: relative;
+	top: -80px;
+	
+}
