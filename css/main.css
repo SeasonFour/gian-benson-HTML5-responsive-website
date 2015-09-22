@@ -241,6 +241,14 @@ label {
 }
 .ads-two-a{
 	
-	height: 200px;
+	height: 220px;
+
 	border: 0.5px solid #D2B4B4;
+}
+.set-image{
+ max-height:100%;
+    height:auto;
+    width:100%;
+    max-width:100%;
+    margin:auto
 }
