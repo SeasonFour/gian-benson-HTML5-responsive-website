@@ -279,6 +279,7 @@ label {
   position: absolute;
   padding: 0;
   transition: opacity .5s;
+  overflow: hidden;
 }
 
 #outer-box #inner-box p {
@@ -295,4 +296,17 @@ label {
 .with-timer{
 top: 120px;
 
+}
+.blog{
+margin-top: 150px;
+  height: 400px;
+
+}
+.blog-item-row{
+  height: 400px;
+  text-align: justify;
+  cursor: pointer;
+}
+.blog-item-row:hover{
+  border:2px solid #D2B4B4;
 }
