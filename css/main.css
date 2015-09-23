@@ -2,6 +2,7 @@
 background: black;
 width: 100%;
 height:40px;
+margin-bottom:220px;
 
 }
 .header-info{
@@ -76,11 +77,12 @@ height:40px;
   background-size: 2px 2px, cover;
   background-repeat: repeat, none;
   background-position: 0 0;
-  width: 100%;
+  width: 80%;
   height: 100%;
   position: absolute;
+
   top: 0;
-  left: 0;
+  left: 150px;
   box-shadow: 0 0 2rem rgba(0,0,0,.5);
   border-radius: 3px;
   font-family: 'Great Vibes';
@@ -326,4 +328,6 @@ margin-top: 170px;
   font-size: xx-small;
   text-align: center;
 
+}.items-array{
+  margin-top: 150px;
 }
